@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "core-util-is": "^1.0.2",
-    "mongoose": "^5.7.3",
+    "mongoose": "^5.7.5",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
   },
