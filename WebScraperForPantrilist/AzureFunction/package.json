@@ -1,0 +1,15 @@
+{
+  "name": "AzureFunction",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "mongoose": "^5.7.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {}
+}
